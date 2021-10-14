@@ -21,9 +21,7 @@ Here are some ideas to get you started:
       <li>Email: <a target="_blank" rel="noopener noreferrer" href="mailto:soohyungl@gmail.com">soohyungl@gmail.com</a></li>
       <li>LinkedIn: <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/soohyungl/">linkedin/soohyungl</a></li>
     </ul>
-
 </ul>
-
 <br>
 <h4>Languages & Tools:</h4>
 <br>
