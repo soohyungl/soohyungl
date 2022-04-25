@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 <li>📍 Based in San Francisco, CA</li>
 <li>⚡ Fun Fact: I once had to stay completely mute for 3 weeks straight </li>
-<li>🤔 I’m looking for Software Development opportunities in the Bay Area, Remote, and other metropolitan areas</li>
- <li>📫 Let's talk! Reach me at my email <a target="_blank" rel="noopener noreferrer" href="mailto:soohyungl@gmail.com">soohyungl@gmail.com</a> or on <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/soohyungl/">linkedin/soohyungl</a></li>
+<li>💼 at Rutter</li>
+<li>📫 Let's talk! Reach me at my email <a target="_blank" rel="noopener noreferrer" href="mailto:soohyungl@gmail.com">soohyungl@gmail.com</a> or on <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/soohyungl/">linkedin/soohyungl</a></li>
 <br>
 <h4>Languages & Tools:</h4>
 <br>
