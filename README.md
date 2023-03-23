@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<li>📍 Based in New York!</li>
 <li>💼 Looking for new opportunities!</li>
 <li>⚡ Fun Fact: I once had to stay completely mute for 3 weeks straight </li>
 <li>📫 Let's talk! Reach me at my email <a target="_blank" rel="noopener noreferrer" href="mailto:soohyungl@gmail.com">soohyungl@gmail.com</a> or on <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/soohyungl/">linkedin/soohyungl</a></li>
